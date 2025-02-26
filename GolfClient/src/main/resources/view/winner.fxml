@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.control.Label?>
+
+<StackPane xmlns:fx="http://javafx.com/fxml" style="-fx-background-color: black;">
+    <Label text="Игра окончена. Вы победили" style="-fx-text-fill: white; -fx-font-size: 24px;"/>
+</StackPane>

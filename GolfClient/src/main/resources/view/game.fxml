@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.canvas.Canvas?>
+<AnchorPane fx:controller="ru.msnigirev.oris.golfclient.controller.GameController"
+            xmlns:fx="http://javafx.com/fxml">
+    <Canvas fx:id="gameCanvas" width="800" height="600" />
+
+    <ProgressBar fx:id="powerBar" layoutX="50" layoutY="620" prefWidth="200"/>
+</AnchorPane>
+
